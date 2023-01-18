@@ -1,0 +1,17 @@
+{
+    "name": "mohamed/lib",
+    "description": "some algorithms",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Mohamed\\Lib\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mohamediysa",
+            "email": "mohamed-aysa201999@hotmail.com"
+        }
+    ],
+    "require": {}
+}
